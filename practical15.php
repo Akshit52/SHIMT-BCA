@@ -1,3 +1,4 @@
+//Write a PHP script to reverse an array string.
 <?php
    $Str = "october 13 on class php a is this";
    $inpStrArray = explode(" ", $Str); 
