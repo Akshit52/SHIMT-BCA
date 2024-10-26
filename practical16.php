@@ -1,3 +1,4 @@
+//Write a PHP Script to design front page of a college or department using HTML and CSS.
 <?php
 $department_name = "Department of Computer Applications";
 $college_name = "SHREE Hanumat-IMT";
